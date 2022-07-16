@@ -10,7 +10,7 @@
            <h3 >Welcome to Ohuka Ikenna Valentine Zuri Task <br>on<br>
             PHP Laravel MVC Hosting</h3><br><br>
             <a  href="{{ route('users.get') }}" class="btn btn-primary btn-sm">Goto Task</a>
-            <a href="" class="btn btn-secondary btn-sm">Goto Task Github ReadMe</a>
+            <a href="https://github.com/sirval/zuri-task-8/blob/main/README.md" target="_blank" class="btn btn-secondary btn-sm">Goto Task Github ReadMe</a>
         </div>
     </div>
 @endsection
