@@ -1,4 +1,4 @@
-<p align="center"><a href="https://training.zuri.team/" target="_blank"><img src="../assets/images/logo.svg" width="400"></a></p>
+<p align="center"><a href="https://training.zuri.team/" target="_blank"><img src="https://zuri-user-management-system.herokuapp.com/public/assets/images/logo.svg" width="400"></a></p>
 
 ## About User Management system
 
