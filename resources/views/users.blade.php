@@ -80,7 +80,7 @@
                     dataType: "json",
                     success:function(response){
                     if (response) {
-                        console.log('success');
+                        location.href('users');
                     }
                     },error:function(error){
                     console.log(error);
